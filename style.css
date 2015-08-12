@@ -1,11 +1,14 @@
 html{ 
    text-align: center;
+   item-align: center;
+   
+   }
+   div{ 
+      -webkit-align-items: center;
    }
    
     <style>
   body{
-      background-color: #0DBAAC;
-         font-family: 'Quicksand', normal;
             background-image: url(http://covuccia.smugmug.com/M/i-jZQMQP5/0/X3/BACK1-X3.png);
       background-size: cover;
       
@@ -32,3 +35,38 @@ html{
         text-align: center;
           align-items: center;
       }
+   nav {
+  position: absolute center;
+  }
+  
+ /* unvisited link */
+nav a{
+    position: center;
+   
+}
+nav a:link, a:link{
+    color: #FFFDE7;
+    position: center;
+}
+
+/* visited link */
+nav a:visited, a:visited{
+    color: #FFFDE7;
+    position: center;
+}
+
+/* mouse over link */
+nav a:hover, a:hover{
+    color: #FFFDE7;
+    position: center;
+}
+
+/* selected link */
+nav a:active, a:active{
+    color: white ;
+    position: center;
+} 
+
+footer, hr,img {
+   position: center;
+}
