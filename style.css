@@ -3,16 +3,18 @@ html{
    item-align: center;
    
    }
+   body{
+            background-image: url(http://covuccia.smugmug.com/M/i-jZQMQP5/0/X3/BACK1-X3.png);
+      background-size: cover;
+      
+    }
+    
    div{ 
       -webkit-align-items: center;
    }
    
     <style>
-  body{
-            background-image: url(http://covuccia.smugmug.com/M/i-jZQMQP5/0/X3/BACK1-X3.png);
-      background-size: cover;
-      
-    }
+  
     
     
      
