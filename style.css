@@ -4,8 +4,9 @@ html{
    
    }
    body{
-            background-image: url(http://covuccia.smugmug.com/M/i-jZQMQP5/0/X3/BACK1-X3.png);
+      background-image: url(http://covuccia.smugmug.com/M/i-jZQMQP5/0/X3/BACK1-X3.png);
       background-size: cover;
+      background-repeat: no-repeat;
       color: #FFFDE7;
       font-family: 'Maven Pro', sans-serif;
       font-size: 25px;
