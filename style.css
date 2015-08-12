@@ -8,13 +8,13 @@ html{
       background-size: cover;
       color: #FFFDE7;
        font-family:'Dosis', sans-serif;
-         font-size: 150px;
+         
     }
    
     h1 {
       color: white;
       font-family:  'Dosis', sans-serif;
-      font-size: 150px;
+      font-size: 90px;
       text-align: center;
       
       
@@ -27,8 +27,9 @@ html{
        }
       P {
         color: #FFFDE7;
-      font: 50px 'Otro', sans-serif
+      font: 'Otro', sans-serif
         text-align: center;
+        font-size: 50px;
           align-items: center;
           
       }
