@@ -7,22 +7,14 @@ html{
             background-image: url(http://covuccia.smugmug.com/M/i-jZQMQP5/0/X3/BACK1-X3.png);
       background-size: cover;
       color: #FFFDE7;
-       font-family: 150px 'Dosis', sans-serif;
-      
+       font-family:'Dosis', sans-serif;
+         font-size: 150px;
     }
-    
-   div{ 
-      -webkit-align-items: center;
-   }
    
-    <style>
-  
-    
-    
-     
-         h1 {
+    h1 {
       color: white;
-      font-family: 150px 'Dosis', sans-serif;
+      font-family:  'Dosis', sans-serif;
+      font-size: 150px;
       text-align: center;
       
       
@@ -40,7 +32,10 @@ html{
           align-items: center;
           
       }
-      </style>
+   div{ 
+      -webkit-align-item: center;
+   }
+   
    nav {
   position: absolute center;
   }
