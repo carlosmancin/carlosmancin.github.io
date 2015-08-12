@@ -36,7 +36,9 @@ html{
       font: 50px 'Otro', sans-serif
         text-align: center;
           align-items: center;
+          
       }
+      </style>
    nav {
   position: absolute center;
   }
