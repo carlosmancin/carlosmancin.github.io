@@ -8,7 +8,7 @@ html{
       background-size: cover;
       color: #FFFDE7;
       font-family: 'Maven Pro', sans-serif;
-      font-size: 30px;
+      font-size: 25px;
          
     }
    
@@ -21,16 +21,12 @@ html{
       
     } 
       
-       h2 {
-      color: #FFFDE7;
-      font: 50px 'Otro', sans-serif;
-      text-align: center;
-       }
+   
       P {
         color: #FFFDE7;
       font-family: 'Maven Pro', sans-serif;
         text-align: center;
-        font-size: 30px;
+         font-size: 25px;
          
       }
    div{ 
