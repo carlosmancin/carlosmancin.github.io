@@ -4,13 +4,21 @@
 <link href='http://fonts.googleapis.com/css?family=Maven+Pro' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css">
 
-</head>
+
 <style>
    h1 {
       color: white;
       font-family:  'Dosis', sans-serif;
       font-size: 90px;
       text-align: center;
+      background-image: url(http://covuccia.smugmug.com/M/i-jZQMQP5/0/X3/BACK1-X3.png);
+      background-size: cover;
+      background-repeat: no-repeat;
+     }
+     
       
 </style>
-      
+  </head>
+  <body>
+  <nav>
+  
