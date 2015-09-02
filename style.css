@@ -80,7 +80,13 @@ section a {
 
 table {
    position: center;
-   width: 70%;
-   height: 100px;
+}
+#content {
+   margin: 0px auto;
+   width: 50%;
+}
+#content table {
+   width: 100%;
+   text-align: center;
 }
 
