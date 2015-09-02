@@ -78,3 +78,9 @@ section a {
   background:         linear-gradient(90deg, #EB3349 10%, #F45C43 90%); /* W3C */
 }
 
+table {
+   position: center;
+   width: 70%;
+   height: 100px;
+}
+
