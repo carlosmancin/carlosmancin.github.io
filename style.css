@@ -70,7 +70,7 @@ footer, hr,img {
    position: center;
 }
 
-section a {
+section {
    background: -webkit-linear-gradient(90deg, #757F9A 10%, #D7DDE8 90%); /* Chrome 10+, Saf5.1+ */
    background:    -moz-linear-gradient(90deg, #757F9A 10%, #D7DDE8 90%); /* FF3.6+ */
    background:     -ms-linear-gradient(90deg, #757F9A 10%, #D7DDE8 90%); /* IE10 */
@@ -80,4 +80,11 @@ section a {
    width: 100%;
   }
   
+section a {
+   color: #FFF;
+   border: 1px solid #FFF;
+   padding: 20px;
+   text-decoration: none;
+   text-transform: uppercase;
+   border-radius: 3px;
 }
