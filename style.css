@@ -71,14 +71,7 @@ footer, hr,img {
 }
 
 section {
-   
-  background: -webkit-linear-gradient(90deg, #757F9A 10%, #D7DDE8 90%); /* Chrome 10+, Saf5.1+ */
-  background:    -moz-linear-gradient(90deg, #757F9A 10%, #D7DDE8 90%); /* FF3.6+ */
-  background:     -ms-linear-gradient(90deg, #757F9A 10%, #D7DDE8 90%); /* IE10 */
-  background:      -o-linear-gradient(90deg, #757F9A 10%, #D7DDE8 90%); /* Opera 11.10+ */
-  background:         linear-gradient(90deg, #757F9A 10%, #D7DDE8 90%); /* W3C */
-  width: 100px;
-  height: 250px;
-
-   
-}
+   background: transparent linear-gradient(90deg, rgba(82, 103, 168, 0.56) 10%, rgba(136, 86, 183, 0.47) 90%) repeat scroll 0% 0%;
+   height: 250px;
+   width: 100%;
+  }
