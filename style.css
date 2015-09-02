@@ -77,4 +77,8 @@ section {
   background:     -ms-linear-gradient(90deg, #757F9A 10%, #D7DDE8 90%); /* IE10 */
   background:      -o-linear-gradient(90deg, #757F9A 10%, #D7DDE8 90%); /* Opera 11.10+ */
   background:         linear-gradient(90deg, #757F9A 10%, #D7DDE8 90%); /* W3C */
+  width: 100px;
+  height: 250px;
+
+   
 }
