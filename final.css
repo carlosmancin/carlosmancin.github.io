@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url('http://goo.gl/04j7Nn');
+  background-image:url('http://cdn.centarahotelsresorts.com/cirm/images/uploads/slider/01-2000x925-Beach-15.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -25,12 +25,12 @@
 .jumbotron h1 {
   color: #fff;
   font-size: 52px;  
-  font-family: 'Shift', verdana;
+  font-family: 'Shift', Impact;
   font-weight: bold;
 }
 
 .jumbotron p {
-  font-size: 24px;
+  font-size: 32px;
   color: #fff;
 }
 
@@ -39,8 +39,8 @@
 }
 
 .learn-more h3 {
-  font-family: 'Shift', verdana;
-  font-size: 22px;
+  font-family: 'Shift', Impact;
+  font-size: 40px;
   font-weight: bold;
 }
 
