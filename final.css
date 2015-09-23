@@ -23,9 +23,9 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
+  color: ##BDBDBD;
   font-size: 52px;  
-  font-family: 'Shift', Impact;
+  font-family: 'Impact', sans-serif;
   font-weight: bold;
 }
 
@@ -39,7 +39,7 @@
 }
 
 .learn-more h3 {
-  font-family: 'Shift', Impact;
+  font-family: 'Impact', sans-serif;
   font-size: 28px;
   font-weight: bold;
 }
@@ -60,6 +60,6 @@
 }
 
 .neighborhood-guides p{
-     font-size: 10px;
+     font-size: 20px;
     margin-bottom: 13px;    
 }
