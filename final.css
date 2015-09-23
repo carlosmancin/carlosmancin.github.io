@@ -42,7 +42,7 @@
   font-family: 'Impact', sans-serif;
   font-size: 28px;
   font-weight: bold;
-  color: #FFFFFF;
+  color: #B40431;
 }
 
 .learn-more a {
@@ -63,4 +63,8 @@
 .neighborhood-guides p{
      font-size: 20px;
     margin-bottom: 13px;    
+}
+
+.footer {
+  position: center,
 }
