@@ -23,7 +23,7 @@
 }
 
 .jumbotron h1 {
-  color: #B40431;
+  color: #FFFFFF;
   font-size: 52px;  
   font-family: 'Impact', sans-serif;
   font-weight: bold;
@@ -35,17 +35,18 @@
 }
 
 .learn-more {
-  background-color: #f7f7f7;
+  background-color: #B40431;
 }
 
 .learn-more h3 {
   font-family: 'Impact', sans-serif;
   font-size: 28px;
   font-weight: bold;
+  color: #FFFFFF;
 }
 
 .learn-more a {
-  color: #8A0829;
+  color: #D8D8D8;
 }
 
 .neighborhood-guides{
@@ -54,7 +55,7 @@
 }
 
 .neighborhood-guides h2{
-    color: #393c3d;
+    color: #FFFFFF;
     font-size: 24px;
 
 }
