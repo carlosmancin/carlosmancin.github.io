@@ -66,10 +66,7 @@
 }
 
 .footer {
-  position: center,
+  text-align: center,
   background-color: #B40431;
 }
 
-.footer img {
-  position: center;
-}
